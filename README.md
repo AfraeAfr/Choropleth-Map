@@ -3,8 +3,8 @@ This project will show a visualization of the attainment of education in the Uni
 
 Technologies Used:
 
--D3.js: For creating the SVG-based map and handling data visualization.
--TopoJSON: For managing geographical data.
+-D3.js: For creating the SVG-based map and handling data visualization.                          
+-TopoJSON: For managing geographical data.        
 -HTML & CSS: For layout and styling.
 
 *US Education Data:https://cdn.freecodecamp.org/testable-projects-fcc/data/choropleth_map/for_user_education.json                               
